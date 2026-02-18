@@ -1,0 +1,23 @@
+{
+  "name": "telugu-interest-calculator",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@google/genai": "^1.41.0"
+  },
+  "devDependencies": {
+    "vite": "^3.2.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1"
+  }
+}
