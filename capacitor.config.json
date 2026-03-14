@@ -1,0 +1,6 @@
+{
+  "appId": "com.vsapps.vaddi",
+  "appName": "Vaddi Lekhalu",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
